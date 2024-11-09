@@ -9,5 +9,7 @@ I’m passionate about transforming data into impactful solutions! At Jacobs, I 
 💼 Clients: Intel, NEOM, AMTRAK, SoundTransit, NYC Department of Design & Construction, and Singapore's National Water Agency.
 
 📍 Let’s connect to chat about AI, data science, or anything tech!
+
+
 ![projects](https://github.com/user-attachments/assets/5a7a1fbf-cd1a-435f-901c-02134bda5c22)
 
