@@ -8,4 +8,4 @@ Before joining Jacobs, I conducted research at the University of Washington’s 
 
 Additionally, I oversaw the development of [AccessMap](https://www.accessmap.app/?region=wa.seattle&lon=-122.334298&lat=47.606386&z=13) at the Taskar Center as part of the Paul G. Allen School of Computer Science, which provides accessible, customized routing directions to support individuals with mobility limitations.
 
-I bring expertise in Power BI, Azure OpenAI, Foundry, and Kubernetes, constantly exploring innovative applications for real-world impact. Let’s connect and discuss how data science can drive meaningful change!
+I bring expertise in Generative AI and Machine Learning, Data Visualization and Project Management, constantly exploring innovative applications for real-world impact. Let’s connect and discuss how data science can drive meaningful change!
