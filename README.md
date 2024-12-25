@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Munzir Hashim Abdulmajid
+## Hi there 👋 I'm Munzir
 
 🚀 Data Scientist at Jacobs | 💡 Machine Learning Engineer and Researcher  | 🌐 Cloud Enthusiast
 
