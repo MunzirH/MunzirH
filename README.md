@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Munzir
 
-🚀 Data Scientist at Jacobs | 💡 Machine Learning Engineer and Researcher  | 🌐 Cloud Enthusiast
+🚀 Data Scientist at Jacobs | 💡 Machine Learning Engineer and Researcher  | 🌐 AI Enthusiast
 
 I’m passionate about transforming data into impactful solutions! At Jacobs, I use Azure OpenAI to drive data innovation on high-profile projects like NEOM, SoundTransit in Seattle, and the AMTRAK Frederick Douglass Tunnel. I also have experience building AI-driven tools and solutions using Foundry by Palantir, enabling smarter decision-making and efficient collaboration through our Alluvial platform.
 
